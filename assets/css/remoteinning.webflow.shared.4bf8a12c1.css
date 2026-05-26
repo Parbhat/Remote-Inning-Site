@@ -2588,7 +2588,7 @@ figcaption {
 }
 
 .author-image {
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+  background-image: url("../images/background-image.svg");
   background-position: 0 0;
   background-size: cover;
   border-radius: 100%;
@@ -2598,7 +2598,7 @@ figcaption {
 }
 
 .author-image.w--current {
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+  background-image: url("../images/background-image.svg");
   background-size: cover;
 }
 
@@ -3330,7 +3330,7 @@ figcaption {
 }
 
 .testimonials-photo {
-  background-image: url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e403038320157ebd6bd9d4d_client-2.jpg");
+  background-image: url("../images/5e403038320157ebd6bd9d4d_client-2.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3348,15 +3348,15 @@ figcaption {
 }
 
 .testimonials-photo.in-list.image-2 {
-  background-image: url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e4030383201576b26bd9d4f_client-1.jpg");
+  background-image: url("../images/5e4030383201576b26bd9d4f_client-1.jpg");
 }
 
 .testimonials-photo.in-list.image-4 {
-  background-image: url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e4030383201570259bd9d4e_client-4.jpg");
+  background-image: url("../images/5e4030383201570259bd9d4e_client-4.jpg");
 }
 
 .testimonials-photo.in-list.image-5 {
-  background-image: url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e4030383201577618bd9d61_client-5.jpg");
+  background-image: url("../images/5e4030383201577618bd9d61_client-5.jpg");
 }
 
 .quote-text {
@@ -3522,14 +3522,14 @@ figcaption {
 }
 
 .right-image {
-  background-image: url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e403038320157cedfbd9d60_process.jpg");
+  background-image: url("../images/5e403038320157cedfbd9d60_process.jpg");
   background-position: 50% 0;
   background-size: cover;
   min-height: 700px;
 }
 
 .right-image.flex {
-  background-image: linear-gradient(#0003, #0003), url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e40303832015761c3bd9d77_process-2.jpg");
+  background-image: linear-gradient(#0003, #0003), url("../images/5e40303832015761c3bd9d77_process-2.jpg");
   background-position: 0 0, 50% 0;
   background-size: auto, cover;
   padding-left: 50px;
@@ -3537,7 +3537,7 @@ figcaption {
 }
 
 .right-image.flex._3 {
-  background-image: linear-gradient(#0000001a, #0000001a), url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e403038320157c062bd9d78_process-3.jpg");
+  background-image: linear-gradient(#0000001a, #0000001a), url("../images/5e403038320157c062bd9d78_process-3.jpg");
   background-size: auto, cover;
 }
 
@@ -3674,7 +3674,7 @@ figcaption {
 
 .third-banner {
   background-color: var(--teal);
-  background-image: url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e40303832015727a8bd9d64_banner.jpg");
+  background-image: url("../images/5e40303832015727a8bd9d64_banner.jpg");
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3749,7 +3749,7 @@ figcaption {
 .circle-play {
   z-index: 1;
   background-color: var(--teal);
-  background-image: url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e403038320157b900bd9d62_icons8-play-filled.svg");
+  background-image: url("../images/5e403038320157b900bd9d62_icons8-play-filled.svg");
   background-position: 53%;
   background-repeat: no-repeat;
   background-size: 24px;
@@ -3867,7 +3867,7 @@ figcaption {
 }
 
 .fourth-banner {
-  background-image: linear-gradient(#597463e6, #597463e6), url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e4030383201571dddbd9d6c_banner-2.jpg");
+  background-image: linear-gradient(#597463e6, #597463e6), url("../images/5e4030383201571dddbd9d6c_banner-2.jpg");
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -3889,7 +3889,7 @@ figcaption {
 
 .service-second-wrapper {
   color: #121217;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+  background-image: url("../images/background-image.svg");
   background-position: -30px 0;
   background-repeat: no-repeat;
   background-size: 94px;
@@ -4144,7 +4144,7 @@ figcaption {
 }
 
 .testi-photo {
-  background-image: url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e403038320157ebd6bd9d4d_client-2.jpg");
+  background-image: url("../images/5e403038320157ebd6bd9d4d_client-2.jpg");
   background-position: 0 0;
   background-size: cover;
   border-radius: 100%;
@@ -4155,19 +4155,19 @@ figcaption {
 }
 
 .testi-photo._3 {
-  background-image: url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e4030383201570259bd9d4e_client-4.jpg");
+  background-image: url("../images/5e4030383201570259bd9d4e_client-4.jpg");
 }
 
 .testi-photo._6 {
-  background-image: url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e4030383201576c31bd9da0_client-3.jpg");
+  background-image: url("../images/5e4030383201576c31bd9da0_client-3.jpg");
 }
 
 .testi-photo._4 {
-  background-image: url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e4030383201576b26bd9d4f_client-1.jpg");
+  background-image: url("../images/5e4030383201576b26bd9d4f_client-1.jpg");
 }
 
 .testi-photo._2 {
-  background-image: url("https://cdn.prod.website-files.com/5e403037320157eb2fbd9ca5/5e4030383201577618bd9d61_client-5.jpg");
+  background-image: url("../images/5e4030383201577618bd9d61_client-5.jpg");
 }
 
 .testimonials-content-second {
@@ -4243,7 +4243,7 @@ figcaption {
 }
 
 .team-circle-image {
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+  background-image: url("../images/background-image.svg");
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4605,7 +4605,7 @@ figcaption {
 }
 
 .div-block-10 {
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+  background-image: url("../images/background-image.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5397,7 +5397,7 @@ figcaption {
 }
 
 .div-block-85 {
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+  background-image: url("../images/background-image.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5435,7 +5435,7 @@ figcaption {
 }
 
 .div-block-86 {
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+  background-image: url("../images/background-image.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
